@@ -1,0 +1,5 @@
+classes = 43
+train = C:/Users/kwasi/OneDrive/Pulpit/AGH/semestr4/CUDA/dataset/train.txt
+valid = C:/Users/kwasi/OneDrive/Pulpit/AGH/semestr4/CUDA/dataset/test.txt
+names = C:/Users/kwasi/OneDrive/Pulpit/AGH/semestr4/CUDA/dataset/obj.names
+backup = C:/Users/kwasi/OneDrive/Pulpit/AGH/semestr4/CUDA/dataset/backup/
